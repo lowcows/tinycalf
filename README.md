@@ -1,4 +1,6 @@
-tinycalf
+Lowcows 'tinycalf' Repository
 ========
 
-General repository for testing short bits of code.
+What's this for?
+----
+The 'tinycalf' repository should be used for general development of short bits of code.
